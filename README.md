@@ -14,6 +14,10 @@ oTreeのオリジナルサイト：[http://www.otree.org/](http://www.otree.org/
 
 日本語で作っているデモページ：[http://open.bee-lab.online/](http://open.bee-lab.online/demo/)
 
+情報共有のためのSlackページを作りました：[http://bit.ly/39tCk01](http://bit.ly/39tCk01)
+
+※一人でやってると淋しいから気楽に相談しましょう！が目的です．
+
 
 
 書いたりしている人：明治大学情報コミュニケーション学部　専任講師　後藤　晶
